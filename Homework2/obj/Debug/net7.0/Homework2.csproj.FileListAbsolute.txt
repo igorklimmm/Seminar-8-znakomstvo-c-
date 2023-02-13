@@ -1,0 +1,15 @@
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/Homework2.csproj.AssemblyReference.cache
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/Homework2.AssemblyInfoInputs.cache
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/Homework2.AssemblyInfo.cs
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/igorklimenko/Desktop/Lesson8/Homework2/bin/Debug/net7.0/Homework2
+/Users/igorklimenko/Desktop/Lesson8/Homework2/bin/Debug/net7.0/Homework2.deps.json
+/Users/igorklimenko/Desktop/Lesson8/Homework2/bin/Debug/net7.0/Homework2.runtimeconfig.json
+/Users/igorklimenko/Desktop/Lesson8/Homework2/bin/Debug/net7.0/Homework2.dll
+/Users/igorklimenko/Desktop/Lesson8/Homework2/bin/Debug/net7.0/Homework2.pdb
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/Homework2.dll
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/refint/Homework2.dll
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/Homework2.pdb
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/Homework2.genruntimeconfig.cache
+/Users/igorklimenko/Desktop/Lesson8/Homework2/obj/Debug/net7.0/ref/Homework2.dll
